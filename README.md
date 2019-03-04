@@ -22,3 +22,4 @@ By hovering over the data points, you can see the country associated with the me
 
 The next tab brings you to a graph that shows a country's medal count over the past ten summer Olympic games. You select a country from the dropdown menu.
 By hovering over the data points, you can see the country's medal count next to the mean medal count for that Olympic game. Note that the mean medal count automatically excludes any country with zero medals that year.
+![alt text](https://github.com/emmabernstein1/Project-1/blob/master/Screen%20Shot%202019-03-03%20at%206.16.43%20PM.png)
