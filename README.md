@@ -18,9 +18,17 @@ Our objective for this project was to scrape data from the olympics.org website,
 Almost all of the graphs that we created are interactive.
 This first graph shows the Olympic medals awarded for each sport's events. You select a sport and one of its events from the dropdown to view the medal scores from the past ten summer Olympic games. This allows you to visually track the progress that athletes are making over the years.
 By hovering over the data points, you can see the country associated with the medal, as well as the score and the type of medal awarded.
+
 ![alt text](https://github.com/emmabernstein1/Project-1/blob/master/Screen%20Shot%202019-03-03%20at%207.02.54%20PM.png)
 
 
 The next tab brings you to a graph that shows a country's medal count over the past ten summer Olympic games. You select a country from the dropdown menu.
 By hovering over the data points, you can see the country's medal count next to the mean medal count for that Olympic game. Note that the mean medal count automatically excludes any country with zero medals that year.
+
 ![alt text](https://github.com/emmabernstein1/Project-1/blob/master/Screen%20Shot%202019-03-03%20at%206.16.43%20PM.png)
+
+
+We graphed the ten countries with the highest total medal counts.
+By hovering over the data points, you can see the country's total medal count from the past ten Summer Olympic games.
+
+![alt text](https://github.com/emmabernstein1/Olympic-Medals/blob/master/Screen%20Shot%202019-03-03%20at%208.01.24%20PM.png)
