@@ -32,3 +32,6 @@ We graphed the ten countries with the highest total medal counts.
 By hovering over the data points, you can see the country's total medal count from the past ten Summer Olympic games.
 
 ![alt text](https://github.com/emmabernstein1/Olympic-Medals/blob/master/Screen%20Shot%202019-03-03%20at%208.01.24%20PM.png)
+
+
+While the purpose of this project was to build a dashboard to visualize the data, the relational database that we created could be utilized for further statistical analysis.
