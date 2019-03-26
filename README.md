@@ -35,3 +35,5 @@ By hovering over the data points, you can see the country's total medal count fr
 
 
 While the purpose of this project was to build a dashboard to visualize the data, the relational database that we created could be utilized for further statistical analysis.
+
+Thanks for reading!
